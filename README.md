@@ -7,17 +7,12 @@ We need to determine the start and end time of such a splash screen.
 
 data download links are in data/data_guide.txt 
 
+**Python 3.11 required**!!
 
 I will use framework **Pytorch** for this problem.
+It wasn't specified if i can use pre-trained modules, so I decided to use a ResNet as cnn module.
 
-It wasn't specified if i can use pre-trained modules, so i decided to do both (since the given train data is so simple that this title sequences are same) 
-
-## Mine solution (no pre-trained models)  
-
-
-
-
-## Solution using pre-trained models
+## Solution  
 
 
 
