@@ -1,0 +1,5 @@
+data/data_train_short
+data/data_test_short
+data/labels_json
+data_preprocessed/*
+

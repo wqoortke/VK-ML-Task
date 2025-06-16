@@ -1,0 +1,23 @@
+download links:
+train=https://disk.yandex.ru/d/1sqxBbA1hRumDQ
+test=https://disk.yandex.ru/d/Be8jLxVcQZ70lQ
+labels=https://disk.yandex.ru/d/PEOGKbj5qJmGlQ
+
+
+Required data should be downloaded and exctracted from zip to /data/
+So it should look like this:
+
+data/ :
+    data_test_short/ :
+        -220020068_456239859/ :
+            -220020068_456239859.mp4
+        ...
+
+    data_train_short/ :
+        -220020068_456239859/ :
+            -220020068_456239859.mp4
+        ...
+
+    labels_json/ :
+        test_labels.json
+        train_labels.json
