@@ -1,7 +1,11 @@
 download links:
 train=https://disk.yandex.ru/d/1sqxBbA1hRumDQ
 test=https://disk.yandex.ru/d/Be8jLxVcQZ70lQ
+
+
 labels=https://disk.yandex.ru/d/PEOGKbj5qJmGlQ
+But dont download these, since they are labeled incorrectly 
+and i got to fix the data labeling, in the repository they are alr fixed 
 
 
 Required data should be downloaded and exctracted from zip to /data/

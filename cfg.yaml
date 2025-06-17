@@ -1,0 +1,10 @@
+# training params
+
+batch_size:         1
+train_len:          5    #videos
+learn_rate:         1e-3
+
+# if changed require data_process.py to be run first
+fps:                1
+resolution:         [200, 114] #  [800, 450]
+

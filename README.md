@@ -12,7 +12,5 @@ data download links are in data/data_guide.txt
 I will use framework **Pytorch** for this problem.
 It wasn't specified if i can use pre-trained modules, so I decided to use a ResNet as cnn module.
 
-## Solution  
-
 
 
